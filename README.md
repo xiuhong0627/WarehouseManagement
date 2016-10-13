@@ -1,2 +1,2 @@
 # WarehouseManagement
-this is a warehouse management software.
+this is a warehouse management software for faurecia.
