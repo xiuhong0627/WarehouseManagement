@@ -1,2 +1,2 @@
 # WarehouseManagement
-this is a warehouse mangaement software.
+this is a warehouse management software.
